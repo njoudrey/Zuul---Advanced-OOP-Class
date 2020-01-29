@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.26">
+<file name="/Users/nicholasjoudrey/W20/CIS4450/zuul/src/main/java/zuul/Command.java">
+</file>
+<file name="/Users/nicholasjoudrey/W20/CIS4450/zuul/src/main/java/zuul/CommandWords.java">
+</file>
+<file name="/Users/nicholasjoudrey/W20/CIS4450/zuul/src/main/java/zuul/Game.java">
+</file>
+<file name="/Users/nicholasjoudrey/W20/CIS4450/zuul/src/main/java/zuul/Parser.java">
+</file>
+<file name="/Users/nicholasjoudrey/W20/CIS4450/zuul/src/main/java/zuul/Player.java">
+</file>
+<file name="/Users/nicholasjoudrey/W20/CIS4450/zuul/src/main/java/zuul/Room.java">
+</file>
+</checkstyle>
